@@ -10,7 +10,7 @@ _This page was made for my first coding project.  Had to use different css and h
 
 ## Setup/Installation Requirements
 
-Go to https://github.com/Jahmanz/projectweek1 to view project
+Go to https://jahmanz.github.io/projectweek1/ to view project
 
 
 ## Known Bugs
